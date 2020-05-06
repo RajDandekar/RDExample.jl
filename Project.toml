@@ -1,0 +1,13 @@
+name = "RDExample"
+uuid = "beff7473-630d-44e3-a6e2-746b50f89501"
+authors = ["RajDandekar"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
